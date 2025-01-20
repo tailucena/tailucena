@@ -1,0 +1,5 @@
+- 👋 @tailucena
+- 🏡Porto Alegre - RS
+- 🌱 Aprendendo um pouco mais a cada dia...
+- 📚 Estudante autodidata
+- 🐍 python
