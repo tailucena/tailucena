@@ -1,5 +1,5 @@
 - 👋 @tailucena
-- 💫 29 anos 
+- 💫 30 anos 
 - 🏡Porto Alegre - RS
 - 🌱 Aprendendo um pouco mais a cada dia...
 - 🐍 python
